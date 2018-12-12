@@ -1,0 +1,58 @@
+body header .container
+{
+    background-color: white;
+    border-bottom: 3px solid #dddddd;
+}
+
+.myname
+{
+    background-color: #4aaaa5;
+    padding: 5px;
+}
+header h1
+{
+    color: white;
+    margin: auto;
+}
+
+header h6
+{
+    color: #777777;
+    padding: 10px;
+    margin: auto;
+    text-decoration: none;
+}
+
+.bg-img
+{
+    
+    background-image: url("../images/concrete.gif");
+    background-repeat: repeat;
+    padding: 2%;
+}
+
+.pagename
+{
+    border-bottom: 3px solid #dddddd;
+    color: #4aaaa5;
+}
+
+.main-content
+{
+    border: 2px solid #dddddd;
+    background-color: white;
+    overflow: auto;
+}
+
+footer
+{
+    padding: 5px;
+    background-color: #666666;
+    border-top: 3px solid #4aaaa5;
+    color: white;
+}
+
+.portfolio-img
+{
+    padding: 10px;
+}
